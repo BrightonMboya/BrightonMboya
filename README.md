@@ -33,7 +33,7 @@ I am Brighton, currently pursuing Bachelors in Computer Science at African Leade
 </p>
 
 ![Brighton's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrightonMboya&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HridoyHazard&theme=great-gatsby&layout=compact)](https://github.com/BrightonMboya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrightonMboya&theme=great-gatsby&layout=compact)](https://github.com/BrightonMboya)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

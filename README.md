@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...   
 -->
 
@@ -22,12 +21,12 @@ Here are some ideas to get you started:
 </br>
 </br>
 
-I am Brighton, currently pursuing Bachelors in Computer Science at African Leadership University (https://alueducation.com/).
+I Build Stuff on the web. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrightonMboya" alt="Brighton Mboya" /> </p>
 
 - 🌱 Currently pursuing web-engineering
-- 🥅 2022 Goals: Being Happy
+- 🥅 2023 Goals: Healthy, and more importantly Happy.
 - ⚡ Fun fact: I love jamming on piano, yes I do !!
 
 <p align="center">
